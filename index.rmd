@@ -1,0 +1,16 @@
+---
+title: "index"
+author: "Benjamin Rogers"
+date: "2/26/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+* [Lab 2](lab-2-html-version.html)
+
+
+
