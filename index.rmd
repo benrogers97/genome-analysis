@@ -3,6 +3,8 @@ title: "index"
 author: "Benjamin Rogers"
 date: "2/26/2020"
 output: html_document
+bibliography: data/references.bib
+
 ---
 
 ```{r setup, include=FALSE}
@@ -11,6 +13,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 * [Lab 2](lab-2-html-version.html)
+* [Lab 3](Lab-3-rmarkdown.html)
+* [Lab 4](Lab-4-rmarkdown.html)
+* [Lab 5](Lab-5-rmarkdown.html)
+
+# REFERENCES
 
 
 

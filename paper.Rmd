@@ -1,0 +1,14 @@
+---
+title: 'Example'
+author: "Ben Rogers"
+output: html_document
+bibliography: data/references.bib
+---
+
+Application written in R [@RCoreTeam] using the Shiny framework [@Chang2015].
+
+# REFERENCES
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
