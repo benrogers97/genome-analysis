@@ -1,6 +1,6 @@
 ---
 title: "index"
-author: "Benjamin Rogers"
+author: "Benjamin FW Rogers"
 date: "2/26/2020"
 output: html_document
 bibliography: data/references.bib
