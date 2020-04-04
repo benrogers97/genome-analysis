@@ -16,7 +16,8 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Lab 3](Lab-3-rmarkdown.html)
 * [Lab 4](Lab-4-rmarkdown.html)
 * [Lab 5](Lab-5-rmarkdown.html)
-*[Lab 6](lab_9_covid_19_data.html)
+* [Lab 9](lab_9_covid_19_data.html)
+
 
 Application written in R [@RCoreTeam] using the Shiny framework [@Chang2015]
 
